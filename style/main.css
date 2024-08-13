@@ -35,7 +35,7 @@
     color: rgba(255,255,255,455);
 }
 
-.navbar {
+.navbar-fix {
     position: fixed;
     top: 0;
     left: 0;
