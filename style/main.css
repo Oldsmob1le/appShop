@@ -62,7 +62,7 @@
 
 .banner-title {
     position: absolute;
-    top: 37%;
+    top: 36%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -95,6 +95,14 @@
 .link {
     text-decoration: none;
     color: #E0BEA2;
+}
+
+.banner-title a {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid white;
+    padding: 9px 14px;
+    border-radius: 8px;
 }
 
 /* КАТАЛОГ */
