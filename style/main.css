@@ -133,11 +133,17 @@
 
 .item-edit img {
     border-radius: 10px;
-    filter: brightness(90%)
+    filter: brightness(80%)
 }
 
-.item-edit {
-    margin-bottom: 40px;
+.carousel-caption p {
+    margin-bottom: 4px;
+}
+
+.price-catalog {
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 .btn-secondary {
@@ -182,6 +188,16 @@
     color: black;
 }
 
+.carousel-indicators [data-bs-target] {
+    padding: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 100px;
+    width: 3px;
+}
+
+.button {
+    border-radius: 10px;
+}
 /* About */
 
 .payment-delivery {
